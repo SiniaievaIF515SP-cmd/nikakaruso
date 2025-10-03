@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html lang="uk">
-<head>
-  <meta charset="UTF-8">
-  <title>Візитка Nika Karuso</title>
-  <style>
-    body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f0f0; }
-    h1 { color: #d63384; }
-    img { max-width: 200px; border-radius: 50%; margin: 10px 0; }
-    .gallery img { max-width: 150px; margin: 5px; border-radius: 10px; }
-    a { text-decoration: none; color: #d63384; font-weight: bold; }
-    a:hover { color: #a2005f; }
-  </style>
-</head>
 <body>
 
   <h1>Nika Karuso</h1>
