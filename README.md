@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="uk">
 <body>
 
-  <h1>Nika Karuso</h1>
+  <h1>and Gyrar</h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJ33Lyf-32ldQ69exO8tFNlLR31OjwZRs1w&s">
   <p>Привіт! Це візитка моєї улюбленої блогерки Ніки Карузо. Вона знімає різні летсплеєї і огляди на ігри. 🌸</p>
 
